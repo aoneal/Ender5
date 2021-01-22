@@ -9,7 +9,10 @@ I am upgradeing my classrooms Ender 5 and trying to catalog these upgrades for s
 Ender 5
 
 Upgrades:
-BTT SKR 1.3 with BTT TMC2130 drivers
-Antlabs BLTouch 3.1
-E3D All Metal HotEnd with Volcano Upgrade
-BondTech BMG Driect Drive 
+1. BTT SKR 1.3 with BTT TMC2130 drivers
+2. Antlabs BLTouch 3.1
+3. E3D All Metal HotEnd with Volcano Upgrade
+4. BondTech BMG Driect Drive 
+
+3D Printed Upgrades
+
